@@ -1,3 +1,2 @@
-# DataStructure-Homework
-
-仅供参考，严禁抄袭
+# heu-data-structure
+哈尔滨工程大学数据结构实验
